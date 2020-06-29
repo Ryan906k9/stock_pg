@@ -8,7 +8,6 @@
 
 百度深度学习算法库 PARL ，以及搭建股票测试环境的 gym-anytrading 网址附在下面，用起来感觉不错的可以去 github 上给她们点 star
 
-另外附上本文的 github 地址：https://github.com/Ryan906k9/stock_pg
 
 # 环境依赖
 
