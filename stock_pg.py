@@ -183,7 +183,7 @@ def calc_reward_to_go(reward_list, gamma=0.9):
 
 # 创建环境
 
-env_test = gym.make('stocks-v0', frame_bound=(2000, 2150), window_size=10)
+env_test = gym.make('stocks-v0', frame_bound=(1800, 2150), window_size=10)
 obs_dim = 20
 act_dim = 2
 logger.info('obs_dim {}, act_dim {}'.format(obs_dim, act_dim))
